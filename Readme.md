@@ -1,5 +1,6 @@
-#使用方法
-修改GitPushApi.py中
+、、、使用方法、、、
+
+        修改GitPushApi.py中
         def __init__(self):
 		self.CORPID = 'XXXX' 
 		self.CORPSECRET = 'XXXX' 
