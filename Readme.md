@@ -1,4 +1,3 @@
-、、、使用方法、、、
 
         修改GitPushApi.py中
         def __init__(self):
